@@ -1,0 +1,6 @@
+{
+    "host": "ios-xe-mgmt-latest.cisco.com",
+    "username": "developer",
+    "password": "C1sco12345",
+    "netconf_port": 10000
+}
